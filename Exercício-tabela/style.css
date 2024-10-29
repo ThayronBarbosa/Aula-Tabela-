@@ -1,0 +1,40 @@
+h1 {
+    margin: 30px;
+    padding: 30px;
+}
+
+table {
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+}
+
+.roupa {
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.tenis{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.camisa{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.eletrodomestico {
+    background-color: #84b7c2;
+    color: antiquewhite;
+}
+
+.geladeira{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.televisao{
+    background-color: black;
+    color: antiquewhite;
+}
